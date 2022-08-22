@@ -54,6 +54,7 @@ paths:
           schema:
             type: integer
             format: int64
+            example: 123
       responses:
         '200':
           description: OK
